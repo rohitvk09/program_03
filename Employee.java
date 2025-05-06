@@ -1,4 +1,3 @@
-package program_03;
 import java.time.LocalDate;
 import java.time.Period;
 
